@@ -1,0 +1,7 @@
+# This playbook drives the configuration
+---
+
+- hosts: all
+  sudo: true
+
+  roles: []

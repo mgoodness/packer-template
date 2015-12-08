@@ -1,0 +1,8 @@
+---
+
+- src: geerlingguy.nfs
+
+- src: 'https://github.com/mgoodness/ansible-role-vagrant'
+  name: vagrant
+
+# Add additional roles here

@@ -1,0 +1,9 @@
+# Used by the vagrant-virtualbox builder
+---
+
+- hosts: all
+  sudo: true
+
+  roles:
+    - geerlingguy.nfs
+    - vagrant
